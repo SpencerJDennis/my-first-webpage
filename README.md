@@ -1,8 +1,8 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### By _**{Spencer Dennis and Joseph Jackson}**_
+#### By _**Spencer Dennis and Joseph Jackson**_
 
-#### _{A simple website about myself and my favorite things}_
+#### _A simple website about myself and my favorite things_
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-_{This website conveys my favorite places, people, and things to do.}_
+_This website conveys my favorite places, people, and things to do._
 
 ## Setup/Installation Requirements
 
@@ -21,7 +21,7 @@ _{This website conveys my favorite places, people, and things to do.}_
 * _Press view deployment_
 * _Now you are there!_
 
-_{You do not need to run a server to access this site. It is hosted on github.io. No other code is being used to besides the technology listed above.}_
+_You do not need to run a server to access this site. It is hosted on github.io. No other code is being used to besides the technology listed above._
 
 ## Known Bugs
 
@@ -29,6 +29,6 @@ _{You do not need to run a server to access this site. It is hosted on github.io
 
 ## License
 
-_{MIT}_
+_MIT_
 
 Copyright (c) _08/2/2022_ _Spencer Dennis & Joseph Jackson_
